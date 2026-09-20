@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=PLN Assist
+NoDisplay=true
+MimeType=x-scheme-handler/plnassist;
+TryExec=plnassist
+Exec=plnassist %u
+Icon=plnassist
+Terminal=false
+Type=Application
+StartupNotify=false
+StartupWMClass=plnassist

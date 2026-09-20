@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PLN Assist</string>
+    <string name="accessibility_service_description">Izinkan perangkat lain mengontrol ponsel dengan sentuhan virtual saat sesi PLN Assist aktif</string>
+</resources>
